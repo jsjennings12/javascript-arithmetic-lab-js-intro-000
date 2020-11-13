@@ -34,3 +34,9 @@ function increment(n){
   n++
   return n
 }
+
+function decrement(n){
+n--
+return n
+}
+ 
