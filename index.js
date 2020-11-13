@@ -16,5 +16,5 @@ function divide(){
 
 function add(a, b){
   a + b
-  return answer
+  return result
 }
