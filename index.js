@@ -15,6 +15,5 @@ function divide(){
 }
 
 function add(a, b){
-  a + b
-  return results
+  return a + b
 }
